@@ -31,8 +31,8 @@ void loop() {
   Serial.println(potDegeri);
     if(nem >= 70){
     analogWrite(LedRed,potDegeri);
-    digitalWrite(4,LOW);
-    digitalWrite(2,LOW);
+    digitalWrite(LedYellow,LOW);
+    digitalWrite(LedGreen,LOW);
     delay(100);
     digitalWrite(LedRed,LOW);
     delay(100);

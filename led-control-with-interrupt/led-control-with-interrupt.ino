@@ -14,8 +14,6 @@
 
 bool intFlag = false;
 
-long LoopTime = 0;
-
 float h = 0;
 float t = 0;
 
