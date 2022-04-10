@@ -14,4 +14,7 @@ At this project i used :
 * 1 Temperature sensor ( DHT11 )
 * 20 Jumper wire
 
+# 10.04.2022 ( Alert-System v2.0 With Button )
 
+* Button has been added to the system with all its requirements
+* Resistor used
