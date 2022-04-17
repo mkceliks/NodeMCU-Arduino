@@ -38,3 +38,7 @@ At this project i used :
 * Node MCU
 * DHT11
 * 3 Jumper Wire
+
+Screen-shot from web-page.
+
+   ![Ekran Alıntısı](https://user-images.githubusercontent.com/66789068/163731989-f429496c-a494-4fbe-868d-67c7ce860f69.PNG)
