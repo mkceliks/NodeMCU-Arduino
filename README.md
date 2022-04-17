@@ -32,3 +32,9 @@ At this project i used :
 * 12 Jumper wire
 * 1 Button ( With 4 pins )
 * 1 Resistor ( 1k Ohm )
+
+# 17.04.2022 ( wifi(Node MCU - ESP8266) - DHT11 )
+
+* Node MCU
+* DHT11
+* 3 Jumper Wire
